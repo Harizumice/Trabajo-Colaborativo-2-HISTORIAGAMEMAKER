@@ -1,0 +1,28 @@
+td{
+    color: brown;
+    
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(173, 0, 0);
+}
+
+a{
+    color: brown;
+    font-style: italic;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(173, 0, 0);
+}
+
+h1, h2{
+    color:rgb(0, 223, 0);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 90, 27);
+}
+
+body{
+    background-color: rgb(27, 27, 27);
+}
+
+button{
+    border-bottom-style:dotted;
+    border-bottom: 37px;
+}
